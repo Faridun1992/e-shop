@@ -114,16 +114,23 @@
       <path value="$PROJECT_DIR$/vendor/hardevine/shoppingcart" />
       <path value="$PROJECT_DIR$/vendor/bumbummen99/shoppingcart" />
       <path value="$PROJECT_DIR$/vendor/kalnoy/nestedset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/vendor/league/config" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/vendor/dflydev/dot-access-data" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="52a13b11-40b9-4e2f-b519-b91550e71b82" name="PHP" home="W:\modules\php\PHP_7.3\php-cgi.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="52a13b11-40b9-4e2f-b519-b91550e71b82" name="PHP (project level)" home="W:\modules\php\PHP_7.3\php-cgi.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
+      <interpreter name="PHP (project level)">
         <phpinfo binary_type="PHP" php_cgi="W:\modules\php\PHP_7.3\php-cgi.exe" php_cli="W:\modules\php\PHP_7.3\php-cgi.exe" path_separator=";" version="7.3.29">
           <additional_php_ini />
           <configuration_file>W:\modules\php\PHP_7.3\php.ini</configuration_file>
